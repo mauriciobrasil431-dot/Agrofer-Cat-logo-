@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mauriciobrasil431-dot.github.io/Agrofer-Cat-logo-/sitemap.xml
